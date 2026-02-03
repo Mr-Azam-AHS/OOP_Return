@@ -6,51 +6,42 @@
 //Class -
 //Lab  -
 
-import java.util.Scanner; 
+import java.util.Scanner;
 import java.lang.Math.*;
 
-public class Triangle
-{
+public class Triangle {
 	private int sideA, sideB, sideC;
 	private double perimeter;
 	private double theArea;
 
-	public Triangle()
-	{
-	   setSides(0,0,0);
-	   perimeter=0;
-	   theArea=0;
+	public Triangle() {
+		setSides(0, 0, 0);
+		perimeter = 0;
+		theArea = 0;
 	}
 
-	public Triangle(int a, int b, int c)
-	{
-
+	public Triangle(int a, int b, int c) {
 
 	}
 
-
-	public void setSides(int a, int b, int c)
-	{
-
+	public void setSides(int a, int b, int c) {
 
 	}
 
-	public void calcPerimeter( )
-	{
-
+	public void calcPerimeter() {
 
 	}
 
-	public void calcArea( )
-	{
+	public void calcArea() {
 		double s;
 
-
 	}
 
-	public void print( )
-	{
+	// Write a getPerimeter() method
 
+	// Write a getArea() method
+
+	public void print() {
 
 		System.out.println("\n\n");
 	}

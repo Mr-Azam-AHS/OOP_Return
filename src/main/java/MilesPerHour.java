@@ -39,6 +39,9 @@ public class MilesPerHour
 
 	}
 
+
+	//write a getMPH() method
+
 	public void print()
 	{
 

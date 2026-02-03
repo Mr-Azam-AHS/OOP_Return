@@ -40,6 +40,13 @@ public class Quadratic
 
 	}
 
+
+	//Write a getRootOne() method
+
+
+	//Write a getRootTwo() method
+
+	
 	public void print( )
 	{
 
